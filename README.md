@@ -1,2 +1,2 @@
 # RGBColorGame
-Simple RGB Color Game
+Simple RGB Color Game as part of my learning experince
